@@ -1,0 +1,238 @@
+BODY
+{
+    BACKGROUND-ATTACHMENT: fixed;
+    BACKGROUND-IMAGE: url(/cci/shared/img/bg2.gif);
+    BACKGROUND-REPEAT: no-repeat
+}
+A
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: 0px solid;
+    COLOR: #0033ff;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+.titulo
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    COLOR: #003366;
+    FONT-FAMILY: Verdana
+}
+.tblTitulo
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+.corpo
+{
+    FONT-SIZE: 10px;
+    COLOR: #000044;
+    FONT-FAMILY: Verdana
+}
+.corpoDest
+{
+    FONT-SIZE: 10px;
+    COLOR: #0000cc;
+    FONT-FAMILY: Verdana
+}
+.TituloRed
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: #ff0000;
+    FONT-FAMILY: Verdana
+}
+.erro
+{
+    FONT-SIZE: 10px;
+    COLOR: #ff0000;
+    FONT-FAMILY: Verdana
+}
+.aviso
+{
+    FONT-SIZE: 10px;
+    COLOR: #0000ff;
+    FONT-FAMILY: Verdana
+}
+.bold
+{
+    FONT-WEIGHT: bold
+}
+.form
+{
+    BORDER-RIGHT: #848284 1px solid;
+    BORDER-TOP: #848284 1px solid;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: #848284 1px solid;
+    COLOR: #003366;
+    MARGIN-RIGHT: 3px;
+    BORDER-BOTTOM: #848284 1px solid;
+    BACKGROUND-COLOR: #ffffff;
+    font-face: Verdana
+}
+.cabecalho
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.menu
+{
+    FONT-SIZE: 10px;
+    COLOR: #0000ff;
+    FONT-FAMILY: Verdana
+}
+A:active
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+.rodape
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.cx_texto
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.texto
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.cabecalho
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.titconsulta
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.titresultconsulta
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.titcolumresultconsult
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #003385;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+BODY
+{
+    RIGHT: 5px;
+    LEFT: 5px;
+    TOP: 5px
+}
+.textoc
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #777777;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.MenuPrincipal
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7c9dc0
+}
+.SubMenu
+{
+    FONT-SIZE: 10px;
+    CURSOR: hand;
+    COLOR: royalblue;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #bccddd
+}
+.Pendente
+{
+    FONT-SIZE: 10px;
+    COLOR: #ff0000;
+    FONT-FAMILY: Verdana
+}
+.Andamento
+{
+    FONT-SIZE: 10px;
+    COLOR: #009900;
+    FONT-FAMILY: Verdana
+}
+.Finalizada
+{
+    FONT-SIZE: 10px;
+    COLOR: #0000ff;
+    FONT-FAMILY: Verdana
+}
+.FundoSim
+{
+    BACKGROUND-COLOR: #e4edf3
+}
+.Hand
+{
+    CURSOR: hand
+}
+.text_help
+{
+    FONT-SIZE: 10pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana, Arial
+}
